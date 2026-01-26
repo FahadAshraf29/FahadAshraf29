@@ -29,7 +29,7 @@ with no app installation required.
 - Works on iOS Safari and Android Chrome
 - Graceful handling of in-app browser limitations
 
-🔗 Live demo available (see pinned repositories)
+🔗 Live demo available https://ar-menu.pages.dev/
 
 ---
 
